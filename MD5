@@ -1,0 +1,13 @@
+86008b53804202b600e63b962f31be73 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+324370efc70bdc263a4c735110c34edb *R/barplotEQR.R
+e59f7cf38c0dfc6b8dc55df97de44f38 *R/carlit.R
+70ffea597a74980747d24b32b7e76120 *data/Community_data.rda
+dc8ad46c7c9c9789fd2d76ff343b45b5 *data/EQR_reference.rda
+7dc43f0128ecfeab4206b36760810c72 *data/Sensitivity_list.rda
+fead7ebef0902ff39321708c58112a31 *man/CARLIT-package.Rd
+f20a40918a9d5c12e2ef9b432e6d2b71 *man/Community_data.Rd
+ce7c865489e47894856daf114a0c7ef1 *man/EQR_reference.Rd
+b36e236fcf8a84008328f774753f7b4f *man/Sensitivity_list.Rd
+44e5b42e1868ac418e4f65b4bb996f17 *man/barplotEQR.Rd
+52b330897ef42c7c24f96817e93cd98b *man/carlit.Rd
